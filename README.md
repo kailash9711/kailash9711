@@ -50,7 +50,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kailash9711&show_icons=true&theme=radial&hide_border=true" alt="Kailash Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kailash9711&show_icons=true&theme=radial&hide_border=true" alt="Kailash Stats" />
 </p>
 
 <p align="center">
