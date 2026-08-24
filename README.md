@@ -49,10 +49,11 @@
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kailash9711&show_icons=true&theme=radial&hide_border=true" alt="Kailash Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kailash9711&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Kailash Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailash9711&theme=radial&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailash9711&theme=radial&hide_border=true&count_private=true" alt="Streak Stats" />
 </p>
