@@ -49,11 +49,13 @@
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kailash9711&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Kailash Stats" />
+  <img src="https://img.shields.io/badge/⚡%20TOTAL%20COMMITS-260%2B-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/🔒%20PRIVATE%20REPO%20COMMITS-200%2B-FF007F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐%20PUBLIC%20COMMITS-60%2B-00FF66?style=for-the-badge&logo=github&logoColor=black" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailash9711&theme=radial&hide_border=true&count_private=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailash9711&theme=tokyonight&hide_border=true" />
+</p>
 </p>
