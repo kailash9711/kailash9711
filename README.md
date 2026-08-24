@@ -1,7 +1,7 @@
-<!-- Typing Animation -->
+<!-- Animated Typing Header -->
 <p align="center">
-  <a href="https://github.com/kailash9711">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kailash+Singh;Full+Stack+Developer;Tech+Explorer+%26+Learner" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kailash+Singh;Full+Stack+Developer+%26+SaaS+Builder;Next.js+%7C+TypeScript+%7C+PostgreSQL+%7C+AWS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,22 +13,38 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Web Development Projects**
-- 🌱 Learning **JavaScript, React, Node.js & Animations**
-- 💬 Ask me about **Frontend, Python, or UI/UX**
-- 📫 Reach me: **your-email@example.com**
+- 🎓 **B.Tech Graduate (2022-2026)** specializing in Full-Stack Web Development.
+- 🚀 Built and shipped SaaS products like **Compscout** (Developer Component Marketplace) & **AI-Driven Task Manager**.
+- 📜 Published **2 Research Papers** on AI-driven systems & organization record platforms.
+- 🏆 Participated in **Smart India Hackathon (SIH) 2023**.
+- 📫 Reach me: **kailash.singh9711@gmail.com** | [LinkedIn](https://linkedin.com) | [Portfolio](https://compscout.dev)
 
 ---
 
-### 🛠 Tools & Technologies
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-</p>
+### 🛠 Tech Stack & Tools
+
+**Frontend & Backend:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+**Database, Cloud & Tools:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+- **[Compscout](https://compscout.dev)**: Full-Stack SaaS marketplace for developers to preview and buy UI components built using Next.js, PostgreSQL, Redis, Stripe & Multi-Factor Auth (OTP/JWT).
+- **Task Manager System**: Real-time collaborative platform with RBAC dashboards, WebSockets (Socket.io), and OpenRouter-powered Generative AI workflows.
 
 ---
 
