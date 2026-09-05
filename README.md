@@ -117,139 +117,72 @@
 
 ### 🚀 Production Showcases & Systems Engineering
 
-<table>
-  <!-- Showcase 01: Compscout -->
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🛍️ 01. Compscout — Digital Component Marketplace</h3>
+      <h3 align="left">🛍️ 01. Compscout — Digital Component Marketplace</h3>
       <p>
-        <a href="https://compscout.dev" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE_PRODUCTION-compscout.dev-00FF66?style=flat-square&logo=vercel&logoColor=0D1117" />
-        </a>
+        <a href="https://compscout.dev" target="_blank"><img src="https://img.shields.io/badge/LIVE_PRODUCTION-compscout.dev-00FF66?style=flat-square&logo=vercel&logoColor=0D1117" /></a>
         <img src="https://img.shields.io/badge/TYPE-Commercial_SaaS-00F0FF?style=flat-square" />
       </p>
-      <p>
-        High-performance component marketplace built for frontend engineers and UI designers to live-preview, customize, and license production-grade UI components with zero latency.
-      </p>
+      <p>High-performance component marketplace built for frontend engineers and UI designers to live-preview, customize, and license production-grade UI components with zero latency.</p>
       <ul>
         <li>⚡ <b>Sub-50ms Asset Delivery:</b> Multi-layer caching with <b>Redis</b> combined with Next.js ISR (Incremental Static Regeneration).</li>
         <li>🔐 <b>Security & Idempotency:</b> Stripe Webhook integration with cryptographic signature verification and idempotent order fulfilment.</li>
         <li>🛡️ <b>Identity Architecture:</b> Multi-Factor Authentication (MFA), dynamic OTP delivery, and tamper-proof JWT token rotation.</li>
       </ul>
-      <p>
-        <b>Tech Stack:</b> <code>Next.js 14</code> • <code>TypeScript</code> • <code>PostgreSQL</code> • <code>Redis</code> • <code>Stripe API</code> • <code>TailwindCSS</code>
-      </p>
-      <p>
-        <a href="https://compscout.dev" target="_blank"><b>👉 Launch Live Platform: compscout.dev →</b></a>
-      </p>
+      <p><b>Tech Stack:</b> <code>Next.js 14</code> • <code>TypeScript</code> • <code>PostgreSQL</code> • <code>Redis</code> • <code>Stripe API</code> • <code>TailwindCSS</code></p>
+      <p><a href="https://compscout.dev" target="_blank"><b>👉 Launch Live Platform: compscout.dev →</b></a></p>
     </td>
-
-    <!-- Showcase 02: Kaash Scheduler -->
     <td width="50%" valign="top">
-      <h3>⏱️ 02. Kaash Scheduler (Kaash.tech)</h3>
+      <h3 align="left">⏱️ 02. Kaash Scheduler (Kaash.tech)</h3>
       <p>
         <img src="https://img.shields.io/badge/STATUS-Active_Beta-FFB800?style=flat-square" />
         <img src="https://img.shields.io/badge/ECOSYSTEM-Web_%2B_React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
-      <p>
-        Distributed event scheduling platform and timeline sync engine engineered to eliminate calendar collisions across high-velocity engineering squads.
-      </p>
+      <p>Distributed event scheduling platform and timeline sync engine engineered to eliminate calendar collisions across high-velocity engineering squads.</p>
       <ul>
         <li>🔄 <b>Collision-Proof Engine:</b> Algorithmic conflict resolution preventing double-booking across distributed team time zones.</li>
         <li>📱 <b>Dual-Platform Sync:</b> Simultaneous synchronization across the Next.js desktop web platform and the <b>React Native + Expo</b> mobile app.</li>
         <li>🔔 <b>Asynchronous Reminders:</b> BullMQ queue processing backed by Redis workers for multi-channel automated alerts.</li>
       </ul>
-      <p>
-        <b>Tech Stack:</b> <code>Next.js</code> • <code>React Native</code> • <code>TypeScript</code> • <code>Redis Queues</code> • <code>PostgreSQL</code>
-      </p>
-      <p>
-        <a href="https://github.com/kailash9711" target="_blank"><b>📂 Inspect Architecture & Updates →</b></a>
-      </p>
+      <p><b>Tech Stack:</b> <code>Next.js</code> • <code>React Native</code> • <code>TypeScript</code> • <code>Redis Queues</code> • <code>PostgreSQL</code></p>
+      <p><a href="https://github.com/kailash9711" target="_blank"><b>📂 Inspect Architecture & Updates →</b></a></p>
     </td>
   </tr>
-
-  <!-- Showcase 03: Collaborative Task Engine & 04: Browser Automation -->
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ 03. Real-Time AI Task & Sprint Engine</h3>
+      <h3 align="left">⚡ 03. Real-Time AI Task & Sprint Engine</h3>
       <p>
         <img src="https://img.shields.io/badge/ARCHITECTURE-Distributed_WebSockets-00F0FF?style=flat-square&logo=socketdotio&logoColor=white" />
         <img src="https://img.shields.io/badge/AI-LLM_Task_Pipeline-7928CA?style=flat-square" />
       </p>
-      <p>
-        Full-duplex collaboration suite designed for engineering teams to coordinate sprint lifecycles with AI-assisted scope estimations and task breakdown.
-      </p>
+      <p>Full-duplex collaboration suite designed for engineering teams to coordinate sprint lifecycles with AI-assisted scope estimations and task breakdown.</p>
       <ul>
         <li>🌐 <b>Zero-Lag Multi-User State:</b> Bi-directional WebSocket rooms (Socket.io) delivering sub-20ms board state propagation.</li>
         <li>🧠 <b>Intelligent Prompt Chains:</b> Integrated OpenRouter LLM orchestration that automatically decomposes high-level epics into technical subtasks.</li>
         <li>🛡️ <b>Granular RBAC:</b> Hierarchical permissions system protecting sensitive project milestones and billing settings.</li>
       </ul>
-      <p>
-        <b>Tech Stack:</b> <code>Next.js</code> • <code>Socket.io</code> • <code>OpenRouter API</code> • <code>Node.js</code> • <code>PostgreSQL</code>
-      </p>
-      <p>
-        <a href="https://github.com/kailash9711" target="_blank"><b>📂 Explore Codebase & Specs →</b></a>
-      </p>
+      <p><b>Tech Stack:</b> <code>Next.js</code> • <code>Socket.io</code> • <code>OpenRouter API</code> • <code>Node.js</code> • <code>PostgreSQL</code></p>
+      <p><a href="https://github.com/kailash9711" target="_blank"><b>📂 Explore Codebase & Specs →</b></a></p>
     </td>
-
-    <!-- Showcase 04: Chrome Extension Suite -->
     <td width="50%" valign="top">
-      <h3>🧩 04. High-Precision Browser Automation Suite</h3>
+      <h3 align="left">🧩 04. High-Precision Browser Automation Suite</h3>
       <p>
         <img src="https://img.shields.io/badge/MANIFEST-V3_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
         <img src="https://img.shields.io/badge/AUTOMATION-DOM_Heuristics-00FF66?style=flat-square" />
       </p>
-      <p>
-        Suite of developer-first browser extensions designed to automate repetitive workflows (voice prompt dispatching, job scraping, resume autofill).
-      </p>
+      <p>Suite of developer-first browser extensions designed to automate repetitive workflows (voice prompt dispatching, job scraping, resume autofill).</p>
       <ul>
         <li>🎙️ <b>Continuous Voice AI:</b> Real-time Speech-to-Text streaming with wake-word detection ("Listen" / "Submit") directly injecting into ChatGPT and Gemini.</li>
         <li>⚡ <b>Universal DOM Parser:</b> Context-aware heuristic extractors parsing nested dynamic job boards across LinkedIn, Indeed, and Wellfound.</li>
         <li>🔒 <b>Local Privacy First:</b> Zero-telemetry storage with <code>chrome.storage.local</code> encryption for candidate credentials.</li>
       </ul>
-      <p>
-        <b>Tech Stack:</b> <code>Chrome Extension MV3</code> • <code>Web Speech API</code> • <code>JavaScript</code> • <code>TailwindCSS</code>
-      </p>
-      <p>
-        <a href="https://github.com/kailash9711" target="_blank"><b>📂 View Extension Repositories →</b></a>
-      </p>
+      <p><b>Tech Stack:</b> <code>Chrome Extension MV3</code> • <code>Web Speech API</code> • <code>JavaScript</code> • <code>TailwindCSS</code></p>
+      <p><a href="https://github.com/kailash9711" target="_blank"><b>📂 View Extension Repositories →</b></a></p>
     </td>
   </tr>
 </table>
-
----
-
-### 📐 Standard System Architecture Blueprint
-
-```mermaid
-flowchart LR
-    subgraph ClientLayer["🖥️ Client Touchpoints"]
-        WebClient["🌐 Next.js 15 Web (Desktop/Mobile)"]
-        NativeApp["📱 React Native + Expo App"]
-        Extension["🧩 Chrome MV3 Voice Extension"]
-    end
-
-    subgraph GatewayLayer["⚡ Edge & Ingestion Gateway"]
-        EdgeRoute["Next.js Server Actions & API Routes"]
-        SocketServer["🔄 WebSocket Gateway (Socket.io)"]
-    end
-
-    subgraph ServiceLayer["⚙️ Core Services & State"]
-        AuthService["🔐 Auth & Security (JWT / MFA)"]
-        AIEngine["🧠 LLM Pipeline (OpenRouter / OpenAI)"]
-        WorkerQueue["⏱️ BullMQ Task Workers"]
-    end
-
-    subgraph DataLayer["💾 Persistence & Cache Layer"]
-        RedisCache["⚡ Redis (Pub/Sub & Caching)"]
-        PostgresDB["🐘 PostgreSQL (Primary Database)"]
-    end
-
-    ClientLayer --> GatewayLayer
-    GatewayLayer --> ServiceLayer
-    ServiceLayer <--> RedisCache
-    ServiceLayer <--> PostgresDB
-```
 
 ---
 
