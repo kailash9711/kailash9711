@@ -1,222 +1,217 @@
-<!-- ========================================================================= -->
-<!-- 🚀 DYNAMIC ANIMATED HERO HEADER                                            -->
-<!-- ========================================================================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Kailash%20Singh&fontSize=50&fontAlignY=36&desc=Full-Stack%20Architect%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20AI%20Systems%20Engineer&descAlignY=58&descAlign=50&fontColor=ffffff&descColor=61DAFB&animation=twinkling" alt="Hero Header" width="100%"/>
-</p>
+<div align="center">
 
-<!-- Animated Typing Subheader -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=00F0FF&center=true&vcenter=true&multiline=false&width=680&lines=%E2%9A%A1+Full-Stack+Web+%26+Mobile+App+Engineer;%F0%9F%9A%80+Architecting+Scalable+SaaS+Platforms;%F0%9F%A7%A0+Integrating+Production+Generative+AI+Workflows;%F0%9F%92%BB+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+React+Native+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis" alt="Typing SVG" />
+  <!-- ========================================================================= -->
+  <!-- ⚡ CYBERPUNK / HIGH-TECH MINIMALIST HERO BANNER                          -->
+  <!-- ========================================================================= -->
+  <a href="https://kailash.compscout.dev">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,11,21,31&height=190&section=header&text=KAILASH%20SINGH&fontSize=42&fontAlignY=42&desc=FULL-STACK%20SYSTEMS%20ARCHITECT%20%7C%20DISTRIBUTED%20REAL-TIME%20SAAS%20%7C%20APPLIED%20AI&descAlignY=66&descAlign=50&fontColor=ffffff&descColor=00F0FF&animation=fadeIn" alt="Kailash Singh Hero Banner" width="100%"/>
   </a>
-</p>
 
-<!-- Social & Profile Quick Connect Pills -->
-<p align="center">
-  <a href="https://kailash.compscout.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-kailash.compscout.dev-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kailash.singh9711@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-kailash.singh9711@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/kailash9711" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-kailash9711-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kailash9711&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge" alt="Profile Views" />
-</p>
+  <!-- Live Dynamic Typing Subtitle -->
+  <p align="center">
+    <a href="https://kailash.compscout.dev">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=00F0FF&center=true&vcenter=true&multiline=false&width=720&lines=%E2%9A%A1+Architecting+High-Concurrency+Next.js+15+%26+Distributed+Systems;%F0%9F%94%84+Engineering+Real-Time+WebSockets+%26+Redis+Event+Pipelines;%F0%9F%A7%A0+Orchestrating+Production-Grade+Generative+AI+Workflows;%F0%9F%93%B1+Shipping+Cross-Platform+Mobile+SaaS+(React+Native+%2B+Expo);%F0%9F%94%A7+Author+of+Low-Latency+Chrome+Extensions+%26+Scraping+Engines" alt="Typing Terminal Subheader" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93825/giphy.gif" width="400" alt="Coding Animated GIF" style="border-radius: 12px;" />
-</p>
+  <!-- High-Status Badges & Direct Connect Hub -->
+  <p align="center">
+    <a href="https://kailash.compscout.dev" target="_blank">
+      <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-kailash.compscout.dev-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/kailash9711" target="_blank">
+      <img src="https://img.shields.io/badge/GITHUB-kailash9711-181717?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub Profile" />
+    </a>
+    <a href="mailto:kailash.singh9711@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/DIRECT_EMAIL-kailash.singh9711-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=kailash9711&label=TELEMETRY+VIEWS&color=00F0FF&style=for-the-badge" alt="Profile Telemetry Views" />
+  </p>
 
-<!-- Glowing Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" />
+</div>
 
 ---
 
-### 👨‍💻 Executive Summary & About Me
+### 🖥️ `system.init()` — Architectural Profile
 
-```yaml
-Name: Kailash Singh
-Degree: B.Tech in Computer Science & Engineering (2022 - 2026)
-Focus: Full-Stack SaaS Engineering, Real-Time Architecture & Applied AI
-Philosophy: "Building high-performance software that solves real human bottlenecks."
-Current_Work: "Building Kaash Scheduler ecosystem (Web + React Native Mobile)"
+```bash
+╭─ ⚡ kailash@arch-node [~] ── [PRODUCTION ENVIRONMENT]
+╰─$ cat developer-manifest.json
+{
+  "engineer": "Kailash Singh",
+  "archetype": "Full-Stack Systems Architect & Applied AI Builder",
+  "education": "B.Tech Computer Science & Engineering (2022 - 2026)",
+  "core_focus": [
+    "High-Throughput SaaS Platforms (Next.js 15, TypeScript, PostgreSQL)",
+    "Distributed Real-Time State Sync (WebSockets, Socket.io, Redis Pub/Sub)",
+    "Applied LLM Workflows (Context routing, Multi-agent orchestration, RAG)",
+    "Deep Browser Automation (Chrome Manifest V3, Heuristic Scraping, Low-Latency DOM)"
+  ],
+  "verified_impact": {
+    "research": "2 Published Research Papers on Applied AI & Decentralized Institutional Verification",
+    "hackathons": "Smart India Hackathon (SIH) 2023 National Finalist",
+    "production": "Shipped live commercial products (Compscout.dev, Kaash.tech Ecosystem)"
+  }
+}
 ```
 
-- 🎓 **B.Tech Graduate (2022–2026)** with deep specialization in full-stack web architectures, distributed systems, and modern cloud deployment.
-- 🚀 **Serial SaaS Builder**: Conceptualized, architected, and shipped production-grade software including **Compscout** (Component Marketplace), **Kaash Scheduler**, and **AI-Driven Collaboration Platforms**.
-- 📜 **Published Researcher**: Authored **2 Research Papers** centered on AI-driven systems and tamper-proof institutional record platforms.
-- 🏆 **Smart India Hackathon (SIH) 2023**: Finalist & participant solving high-stakes real-world engineering challenges.
-- 📱 **Cross-Platform Visionary**: Expanding web SaaS solutions into native mobile experiences using **React Native & Expo**.
-- ⚡ **Open-Source & Tooling**: Author of productivity browser extensions and high-concurrency web resource extraction engines.
+---
+
+### 🏛️ Core Architectural Pillars
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ 01. High-Concurrency Web Systems</h4>
+      <p>Architecting full-stack web applications with <b>Next.js 15 App Router</b>, Server Components (RSC), and edge runtimes. Heavy focus on sub-100ms first-contentful paint, dynamic asset caching via Redis, and zero-downtime database migrations with Prisma & PostgreSQL.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔄 02. Real-Time & Event Pipelines</h4>
+      <p>Building bidirectional, conflict-free state synchronization engines with <b>WebSockets</b>, Socket.io rooms, and distributed message queues. Eliminating race conditions across multi-client collaborative boards and calendar timelines.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 03. Applied AI & LLM Systems</h4>
+      <p>Integrating production Generative AI pipelines via OpenRouter & OpenAI. Building deterministic prompt chains, smart task breakdown logic, semantic similarity matching, and adaptive cognitive difficulty scoring models.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 04. Cross-Platform & Browser Tooling</h4>
+      <p>Extending desktop ecosystems into native mobile via <b>React Native + Expo</b> with offline-first synchronization. Authoring high-performance Chrome Manifest V3 extensions with real-time DOM injection and streaming voice recognition.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Core Tech Stack & Tools
+### ⚙️ Production Tech Arsenal
 
-<p align="center">
-  <!-- Skill Icons Animated Icon Bar (16 icons in 2 clean rows of 8) -->
+<div align="center">
+
+  <!-- Core Stack Interactive Grid -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,postgres,mongodb,redis,aws,docker,git,tailwind,python,redux,reactquery,postman&perline=8&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,redis,aws,docker&perline=8&theme=dark" alt="Core Technologies" />
   </a>
-</p>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,redux,reactquery,python,mongodb,git,postman,android&perline=8&theme=dark" alt="Auxiliary Technologies" />
+  </a>
+
+</div>
 
 <br />
 
-| Domain | Technologies & Frameworks |
+| Tier | Technologies & Runtime Ecosystem |
 | :--- | :--- |
-| **Frontend Architecture** | ![Next.js](https://img.shields.io/badge/Next.js%2014%2F15-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React%2018%2F19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) |
-| **Backend & Microservices** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
-| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
-| **Mobile & Cross-Platform** | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| **Cloud, DevOps & Tools** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| **AI & Intelligent Systems** | ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F61?style=flat-square&logo=openai&logoColor=white) ![OpenRouter API](https://img.shields.io/badge/OpenRouter_LLMs-412991?style=flat-square) ![Predictive Models](https://img.shields.io/badge/ML_Modeling-F7931E?style=flat-square) |
+| **Frontend & UI Engineering** | `Next.js 14/15` • `React 18/19` • `TypeScript` • `Tailwind CSS` • `TanStack Query (React Query)` • `Redux Toolkit` • `Framer Motion` |
+| **Backend & Distributed Systems** | `Node.js (v20+)` • `RESTful Architecture` • `WebSockets (Socket.io)` • `Python (FastAPI / PyTorch)` • `Microservices` |
+| **Databases & Event Caching** | `PostgreSQL` • `Redis (Pub/Sub & Caching)` • `MongoDB` • `Prisma ORM` • `SQL Query Optimization` |
+| **Mobile & Native Platforms** | `React Native` • `Expo Framework` • `Android SDK` • `Offline-First Sync Engine` |
+| **DevOps, Cloud & Tooling** | `Amazon Web Services (AWS)` • `Docker Containers` • `Git / GitHub Actions CI/CD` • `Postman API Testing` • `Linux Bash` |
+| **Applied AI & Automation** | `Generative AI (OpenRouter / OpenAI APIs)` • `Chrome Extensions (Manifest V3)` • `Cheerio / Scraper Streams` • `ML Classification` |
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Production Showcases & Systems Engineering
 
 <table>
-  <!-- Project 1: Compscout -->
+  <!-- Showcase 01: Compscout -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">01. 🛍️ Compscout — Component Marketplace</h3>
+      <h3>🛍️ 01. Compscout — Digital Component Marketplace</h3>
       <p>
-        <img src="https://img.shields.io/badge/Status-Live_Production-00FF66?style=for-the-badge&logo=vercel&logoColor=black" />
-        <img src="https://img.shields.io/badge/Type-Full--Stack_SaaS-00F0FF?style=for-the-badge" />
+        <a href="https://compscout.dev" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_PRODUCTION-compscout.dev-00FF66?style=flat-square&logo=vercel&logoColor=0D1117" />
+        </a>
+        <img src="https://img.shields.io/badge/TYPE-Commercial_SaaS-00F0FF?style=flat-square" />
       </p>
       <p>
-        A premier full-stack digital marketplace tailored for software engineers and UI designers to preview in real-time, inspect, and purchase production-ready modern UI components.
-      </p>
-      <ul>
-        <li>⚡ <b>Core Architecture:</b> Next.js App Router, TypeScript, and Tailwind CSS for instant live rendering.</li>
-        <li>🔐 <b>Security & Identity:</b> Multi-Factor Authentication (MFA), dynamic OTP verification, and JWT session handling.</li>
-        <li>💳 <b>Monetization & Caching:</b> Stripe webhook integration for transactions + Redis for low-latency asset caching.</li>
-      </ul>
-      <p>
-        <b>Tech Stack:</b> <code>Next.js</code> • <code>TypeScript</code> • <code>PostgreSQL</code> • <code>Redis</code> • <code>Stripe</code> • <code>TailwindCSS</code>
-      </p>
-      <p>
-        <a href="https://compscout.dev" target="_blank"><b>🔗 Explore Compscout Live Production →</b></a>
-      </p>
-    </td>
-    <!-- Project 2: Task Manager -->
-    <td width="50%" valign="top">
-      <h3 align="left">02. ⚡ AI-Driven Collaborative Task Manager</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Completed-00F0FF?style=for-the-badge&logo=probot&logoColor=black" />
-        <img src="https://img.shields.io/badge/Type-Enterprise_Tool-7928CA?style=for-the-badge" />
-      </p>
-      <p>
-        Enterprise-grade real-time collaboration ecosystem designed to streamline sprint cycles, task delegation, and AI-assisted workflow prioritization.
+        High-performance component marketplace built for frontend engineers and UI designers to live-preview, customize, and license production-grade UI components with zero latency.
       </p>
       <ul>
-        <li>🔄 <b>Real-Time Sync:</b> Built bi-directional state synchronization using WebSockets (Socket.io) for multi-user boards.</li>
-        <li>🛡️ <b>Enterprise Governance:</b> Fine-grained Role-Based Access Control (RBAC) across teams, leads, and admins.</li>
-        <li>🧠 <b>Generative AI Workflows:</b> OpenRouter LLM pipeline for automatic task breakdown, smart summaries, and deadline estimation.</li>
+        <li>⚡ <b>Sub-50ms Asset Delivery:</b> Multi-layer caching with <b>Redis</b> combined with Next.js ISR (Incremental Static Regeneration).</li>
+        <li>🔐 <b>Security & Idempotency:</b> Stripe Webhook integration with cryptographic signature verification and idempotent order fulfilment.</li>
+        <li>🛡️ <b>Identity Architecture:</b> Multi-Factor Authentication (MFA), dynamic OTP delivery, and tamper-proof JWT token rotation.</li>
       </ul>
       <p>
-        <b>Tech Stack:</b> <code>Next.js</code> • <code>Socket.io</code> • <code>OpenRouter AI</code> • <code>PostgreSQL</code> • <code>Node.js</code>
+        <b>Tech Stack:</b> <code>Next.js 14</code> • <code>TypeScript</code> • <code>PostgreSQL</code> • <code>Redis</code> • <code>Stripe API</code> • <code>TailwindCSS</code>
       </p>
       <p>
-        <a href="https://github.com/kailash9711" target="_blank"><b>📂 View Architecture & Repository →</b></a>
+        <a href="https://compscout.dev" target="_blank"><b>👉 Launch Live Platform: compscout.dev →</b></a>
       </p>
     </td>
-  </tr>
 
-  <!-- Project 3: AI Learning Model & Project 4: Kaash Scheduler -->
-  <tr>
+    <!-- Showcase 02: Kaash Scheduler -->
     <td width="50%" valign="top">
-      <h3 align="left">03. 🧠 Adaptive AI Learning & Prediction Model</h3>
+      <h3>⏱️ 02. Kaash Scheduler (Kaash.tech)</h3>
       <p>
-        <img src="https://img.shields.io/badge/Status-Research_&_WIP-FF007F?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Repo-Private_WIP-555555?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/STATUS-Active_Beta-FFB800?style=flat-square" />
+        <img src="https://img.shields.io/badge/ECOSYSTEM-Web_%2B_React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
       <p>
-        An intelligent, adaptive educational model that monitors user cognitive mastery and dynamically customizes learning pathways using predictive AI algorithms.
+        Distributed event scheduling platform and timeline sync engine engineered to eliminate calendar collisions across high-velocity engineering squads.
       </p>
       <ul>
-        <li>📊 <b>Predictive Analytics:</b> Continuously assesses user retention, topic difficulty, and knowledge drop-off points.</li>
-        <li>🎯 <b>Dynamic Curriculum:</b> Re-ranks and delivers bite-sized technical challenges tailored to the learner's skill trajectory.</li>
-        <li>🔬 <b>Academic Foundation:</b> Derived from published research on adaptive knowledge systems and smart tutoring architectures.</li>
-      </ul>
-      <p>
-        <b>Tech Stack:</b> <code>Python</code> • <code>PyTorch / Scikit-Learn</code> • <code>FastAPI</code> • <code>PostgreSQL</code> • <code>Next.js</code>
-      </p>
-      <p>
-        <i>🔒 Note: Model weights & research codebase currently private (Work In Progress).</i>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">04. ⏱️ Kaash Scheduler (Kaash.tech)</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Web_SaaS-In_Development-FFB800?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Mobile-📱_React_Native_WIP-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      </p>
-      <p>
-        High-precision live synchronization scheduler and automated task orchestrator built to manage complex team timelines without scheduling conflicts.
-      </p>
-      <ul>
-        <li>⚡ <b>Live-Sync Engine:</b> Low-latency distributed calendar & timeline sync with automated collision detection.</li>
-        <li>📱 <b>Cross-Platform Mobile Suite:</b> Actively engineering the companion mobile app using <b>React Native</b> for instantaneous on-the-go offline-first sync.</li>
-        <li>🔔 <b>Smart Notifications:</b> Multi-channel reminders powered by background workers and Redis queues.</li>
+        <li>🔄 <b>Collision-Proof Engine:</b> Algorithmic conflict resolution preventing double-booking across distributed team time zones.</li>
+        <li>📱 <b>Dual-Platform Sync:</b> Simultaneous synchronization across the Next.js desktop web platform and the <b>React Native + Expo</b> mobile app.</li>
+        <li>🔔 <b>Asynchronous Reminders:</b> BullMQ queue processing backed by Redis workers for multi-channel automated alerts.</li>
       </ul>
       <p>
         <b>Tech Stack:</b> <code>Next.js</code> • <code>React Native</code> • <code>TypeScript</code> • <code>Redis Queues</code> • <code>PostgreSQL</code>
       </p>
       <p>
-        <i>🚧 Note: Core web platform & React Native mobile app under active development (Private Beta).</i>
+        <a href="https://github.com/kailash9711" target="_blank"><b>📂 Inspect Architecture & Updates →</b></a>
       </p>
     </td>
   </tr>
 
-  <!-- Project 5: Job Searcher & Project 6: URL Resource Downloader -->
+  <!-- Showcase 03: Collaborative Task Engine & 04: Browser Automation -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">05. 🔍 Smart Job Searcher Browser Extension</h3>
+      <h3>⚡ 03. Real-Time AI Task & Sprint Engine</h3>
       <p>
-        <img src="https://img.shields.io/badge/Platform-Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/Status-Internal_Testing-FF007F?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/ARCHITECTURE-Distributed_WebSockets-00F0FF?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-LLM_Task_Pipeline-7928CA?style=flat-square" />
       </p>
       <p>
-        An intelligent developer-focused browser extension that automates job tracking, keyword parsing, and status management across major job boards.
+        Full-duplex collaboration suite designed for engineering teams to coordinate sprint lifecycles with AI-assisted scope estimations and task breakdown.
       </p>
       <ul>
-        <li>⚡ <b>1-Click Tracking:</b> Scrapes job descriptions, required skills, and salary bands from LinkedIn, Wellfound, and Indeed.</li>
-        <li>📋 <b>Application Pipeline:</b> Visual kanban popup to monitor stages (Applied, Interviewing, Offered) with zero context switching.</li>
-        <li>🎯 <b>Resume Match Score:</b> Real-time semantic comparison between candidate skills and job requirements.</li>
+        <li>🌐 <b>Zero-Lag Multi-User State:</b> Bi-directional WebSocket rooms (Socket.io) delivering sub-20ms board state propagation.</li>
+        <li>🧠 <b>Intelligent Prompt Chains:</b> Integrated OpenRouter LLM orchestration that automatically decomposes high-level epics into technical subtasks.</li>
+        <li>🛡️ <b>Granular RBAC:</b> Hierarchical permissions system protecting sensitive project milestones and billing settings.</li>
       </ul>
       <p>
-        <b>Tech Stack:</b> <code>Chrome Extension API</code> • <code>TypeScript</code> • <code>React</code> • <code>TailwindCSS</code>
+        <b>Tech Stack:</b> <code>Next.js</code> • <code>Socket.io</code> • <code>OpenRouter API</code> • <code>Node.js</code> • <code>PostgreSQL</code>
       </p>
       <p>
-        <i>🔒 Note: Currently in private dogfooding & awaiting Chrome Web Store release.</i>
+        <a href="https://github.com/kailash9711" target="_blank"><b>📂 Explore Codebase & Specs →</b></a>
       </p>
     </td>
+
+    <!-- Showcase 04: Chrome Extension Suite -->
     <td width="50%" valign="top">
-      <h3 align="left">06. 📥 URL Resource & Asset Harvester</h3>
+      <h3>🧩 04. High-Precision Browser Automation Suite</h3>
       <p>
-        <img src="https://img.shields.io/badge/Utility-CLI_%26_Engine-00FF66?style=for-the-badge&logo=gnubash&logoColor=black" />
-        <img src="https://img.shields.io/badge/Status-Internal_Utility-555555?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/MANIFEST-V3_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/AUTOMATION-DOM_Heuristics-00FF66?style=flat-square" />
       </p>
       <p>
-        High-speed batch resource downloader and asset extractor engineered for web scrapers, security researchers, and media archivists.
+        Suite of developer-first browser extensions designed to automate repetitive workflows (voice prompt dispatching, job scraping, resume autofill).
       </p>
       <ul>
-        <li>🚀 <b>Deep Asset Scraping:</b> Recursively crawls and resolves nested URLs to batch extract media, documents, stylesheets, and bundles.</li>
-        <li>⚡ <b>Stream Concurrency:</b> Node.js pipeline streaming with rate-limiting, error retries, and chunked download resumption.</li>
-        <li>🛠️ <b>Dual Interface:</b> Available both as a rapid command-line tool (CLI) and an intuitive web UI dashboard.</li>
+        <li>🎙️ <b>Continuous Voice AI:</b> Real-time Speech-to-Text streaming with wake-word detection ("Listen" / "Submit") directly injecting into ChatGPT and Gemini.</li>
+        <li>⚡ <b>Universal DOM Parser:</b> Context-aware heuristic extractors parsing nested dynamic job boards across LinkedIn, Indeed, and Wellfound.</li>
+        <li>🔒 <b>Local Privacy First:</b> Zero-telemetry storage with <code>chrome.storage.local</code> encryption for candidate credentials.</li>
       </ul>
       <p>
-        <b>Tech Stack:</b> <code>Node.js</code> • <code>TypeScript</code> • <code>Axios Streams</code> • <code>Cheerio</code>
+        <b>Tech Stack:</b> <code>Chrome Extension MV3</code> • <code>Web Speech API</code> • <code>JavaScript</code> • <code>TailwindCSS</code>
       </p>
       <p>
-        <i>🔒 Note: Internal developer utility tool (Private Repository).</i>
+        <a href="https://github.com/kailash9711" target="_blank"><b>📂 View Extension Repositories →</b></a>
       </p>
     </td>
   </tr>
@@ -224,51 +219,93 @@ Current_Work: "Building Kaash Scheduler ecosystem (Web + React Native Mobile)"
 
 ---
 
-### 📊 Comprehensive GitHub Analytics & Commit Activity
+### 📐 Standard System Architecture Blueprint
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡%20TOTAL%20COMMITS-260%2B-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Total Commits" />
-  <img src="https://img.shields.io/badge/🔒%20PRIVATE%20REPO%20COMMITS-200%2B-FF007F?style=for-the-badge&logo=github&logoColor=white" alt="Private Commits" />
-  <img src="https://img.shields.io/badge/🌐%20PUBLIC%20COMMITS-60%2B-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="Public Commits" />
-</p>
+```mermaid
+flowchart LR
+    subgraph ClientLayer["🖥️ Client Touchpoints"]
+        WebClient["🌐 Next.js 15 Web (Desktop/Mobile)"]
+        NativeApp["📱 React Native + Expo App"]
+        Extension["🧩 Chrome MV3 Voice Extension"]
+    end
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=kailash9711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F0FF&icon_color=61DAFB&text_color=c9d1d9" alt="Kailash's GitHub Stats" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash9711&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailash9711&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF007F&currStreakLabel=00FF66" alt="Kailash's GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
+    subgraph GatewayLayer["⚡ Edge & Ingestion Gateway"]
+        EdgeRoute["Next.js Server Actions & API Routes"]
+        SocketServer["🔄 WebSocket Gateway (Socket.io)"]
+    end
 
-<!-- Interactive Contribution Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kailash9711&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F0FF&line=61DAFB&point=FF007F" width="100%" alt="Activity Graph" />
-</p>
+    subgraph ServiceLayer["⚙️ Core Services & State"]
+        AuthService["🔐 Auth & Security (JWT / MFA)"]
+        AIEngine["🧠 LLM Pipeline (OpenRouter / OpenAI)"]
+        WorkerQueue["⏱️ BullMQ Task Workers"]
+    end
 
----
+    subgraph DataLayer["💾 Persistence & Cache Layer"]
+        RedisCache["⚡ Redis (Pub/Sub & Caching)"]
+        PostgresDB["🐘 PostgreSQL (Primary Database)"]
+    end
 
-### 💬 Daily Developer Thought
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Tech Quote" />
-</p>
+    ClientLayer --> GatewayLayer
+    GatewayLayer --> ServiceLayer
+    ServiceLayer <--> RedisCache
+    ServiceLayer <--> PostgresDB
+```
 
 ---
 
-<!-- Animated Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=120&section=footer" width="100%" alt="Footer Wave" />
-</p>
+### 📊 Verified GitHub Telemetry & Velocity
 
-<p align="center">
-  <b>⭐ Designed & Crafted with precision by <a href="https://github.com/kailash9711">Kailash Singh</a></b><br>
-  <i>"Always open to collaborating on disruptive SaaS, AI systems, and open-source innovations."</i>
-</p>
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/kailash9711">
+          <img src="https://github-readme-stats.vercel.app/api?username=kailash9711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="GitHub Analytics" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/kailash9711">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash9711&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Technologies" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/kailash9711">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailash9711&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00FF66&currStreakLabel=00F0FF" alt="Commit Streak" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Contribution Telemetry Graph -->
+  <a href="https://github.com/kailash9711">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kailash9711&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=00FF66" width="100%" alt="Contribution Telemetry Graph" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- Minimalist Cyberpunk Terminal Footer -->
+  <p>
+    <code>STATUS: AVAILABLE FOR HIGH-IMPACT SOFTWARE ENGINEERING & SAAS ARCHITECTURE</code>
+  </p>
+
+  <p>
+    <a href="https://kailash.compscout.dev">🌐 <b>Portfolio</b></a> •
+    <a href="https://github.com/kailash9711">💻 <b>GitHub</b></a> •
+    <a href="https://linkedin.com">🤝 <b>LinkedIn</b></a> •
+    <a href="mailto:kailash.singh9711@gmail.com">✉️ <b>Email</b></a>
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,11,21,31&height=90&section=footer" width="100%" alt="Footer Wave" />
+
+  <p align="center">
+    <sub>Crafted with engineering rigor by <b>Kailash Singh</b> • 2026</sub>
+  </p>
+
+</div>
